@@ -25,6 +25,3 @@ Install Bangla Date Converter via Composer
     $dateConverter->getConvertedDateTime('2018-09-07 12:19:50 pm',  'EnEn', ''); // Friday 7th September 2018 12:19:50 PM
     
 getConvertedDateTime() Method Takes Three Parameter - Date,Type, Format. Format is Nullable and it will return 'l jS F Y b h:i:s' if format is Null.
-
-## Find Me
-	Email: devraju.bd@gmail.com 
